@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kotlin & React-Native Developer from Turkey
+Hello! I'm Emirhan a Kotlin & React-Native Developer. 
 
 
 ## 🌐 Socials:
