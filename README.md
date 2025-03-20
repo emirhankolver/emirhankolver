@@ -1,21 +1,27 @@
 # 👋 Hi, I'm Emirhan!  
-🚀 **Senior Android & Backend Developer | Kotlin | Node.js | Java | Dart**  
+🚀 **Senior Android Developer | Kotlin | Node.js | Java | Dart**  
 
-I'm a passionate software developer with **6+ years of experience** in **Kotlin, Java, and Node.js**. I specialize in building scalable high-quality Android applications.  
+I'm a passionate software developer with **6+ years of experience** in **Kotlin, Java, and Node.js**. I specialize in building scalable high-quality Android applications.
 
-🔹 **Current Project:** [Milo](https://milodating.com) – A unique dating app designed to spark meaningful conversations.  
+> 💼 **I'm currently looking for opportunities as an Android Developer!** If you're hiring or have an interesting project, feel free to reach out.  
+
+🔹 **Current Project:** [Milo](https://milodating.com) – A full-stack, unique dating app designed to spark meaningful conversations.  
 🔹 **Portfolio Projects:**  
 - **[AI Chat App](https://github.com/emirhankolver/sample-ai-chat)** – Built with Kotlin, Jetpack Compose & Nest.js  
 - **[TMDB Movie App](https://github.com/emirhankolver/tmdb-movie-app)** – Showcasing my expertise in API integration & UI design  
 
 ### 🛠 Tech Stack:  
 - **Mobile:** Kotlin (Jetpack Compose), Java (Android SDK), Dart (Flutter)  
-- **Backend:** Node.js (Nest.js, Express)
+- **Frontend:** Next.js
+- **Backend:** Node.js (Nest.js, Express.js)
 - **Database:** PostgreSQL, MongoDB  
 - **Tools:** Docker, Git, Redis  
 
-📌 **Currently:** Expanding my portfolio & working on innovative projects.  
-📫 **Let's connect!** Feel free to check out my repos or reach out.  
+📌 **Currently:** Expanding my portfolio & looking for Android Developer roles.  
+📫 **Let's connect!**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emirhan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/emirhankolver/)  
+
 
 ---
 
