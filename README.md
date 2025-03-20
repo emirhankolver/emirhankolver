@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Emirhan!  
 🚀 **Senior Android Developer | Kotlin | Node.js | Java | Dart**  
 
-I'm a passionate software developer with **6+ years of experience** in **Kotlin, Java, and Node.js**. I specialize in building scalable high-quality Android applications.
+I'm a passionate software developer with **6+ years of experience** in **Kotlin and Java**. I specialize in building scalable high-quality Android applications.
 
 > 💼 **I'm currently looking for opportunities as an Android Developer!** If you're hiring or have an interesting project, feel free to reach out.  
 
